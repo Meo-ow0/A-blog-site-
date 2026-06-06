@@ -1,6 +1,6 @@
 # Collab Blog Project
 
-Welcome to my aesthetic collab blog! This is a space for writers to sign in, share their thoughts, and collaborate on posts.
+Welcome to my  collab blog! This is a space for writers to sign in, share their thoughts, and collaborate on posts.
 
 ## Features
 - **Secure Login:** Keeps user accounts safe.
@@ -25,4 +25,3 @@ Welcome to my aesthetic collab blog! This is a space for writers to sign in, sha
 - [ ] User Dashboard
 
 ---
-*Created with love and a bit of pink magic. ♡*
